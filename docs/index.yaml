@@ -3,7 +3,17 @@ entries:
   hk-sqlpad:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-27T18:59:47.8410908+08:00"
+    created: "2021-01-27T19:07:44.4358442+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 699605c20f72f7fb3c7698618213da50f28440ca5fefa16581c70d1ba06da3b9
+    name: hk-sqlpad
+    type: application
+    urls:
+    - https://wenshangbei.github.io/helm-repo/hk-sqlpad-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-27T19:07:44.4308485+08:00"
     description: A Helm chart for Kubernetes
     digest: e23e70bba20d59717f8076b321e64c5af367b41917d8f59b3f9f5fded68b0f77
     name: hk-sqlpad
@@ -14,7 +24,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-27T18:59:47.8440823+08:00"
+    created: "2021-01-27T19:07:44.4388447+08:00"
     description: A Helm chart for Kubernetes
     digest: 4703d05518bbfe3f26d74ebf8b55a973138b8c329e368ab8053ddf4183226349
     name: mychart
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://wenshangbei.github.io/helm-repo/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-27T18:59:47.8320882+08:00"
+generated: "2021-01-27T19:07:44.4116594+08:00"
